@@ -3,15 +3,15 @@
    <description></description>
    <name>test1</name>
    <tag></tag>
-   <elementGuidId>96086dd3-365d-4f90-9bde-7c7172acec88</elementGuidId>
+   <elementGuidId>65e460ba-a566-437e-9f08-869d87d732f4</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;repo-content-pjax-container&quot;]/div/div/div[3]/div[2]/div/div[1]/div/div[4]</value>
-      </entry>
       <entry>
          <key>BASIC</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;js-flash-container&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
